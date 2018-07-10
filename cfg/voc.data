@@ -1,0 +1,6 @@
+classes= 20
+train  = /home/abdulqadir/Documents/internship/train.txt
+valid  = /home/abdulqadir/Documents/internship/2007_test.txt
+names = data/voc.names
+backup = backup
+
